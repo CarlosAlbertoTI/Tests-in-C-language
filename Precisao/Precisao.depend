@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517767892 source:c:\users\calbe\desktop\teste com c\precisao\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517851896 source:/media/carlos/Arquivos/Testes/Teste com C/receba/main.c
+	<stdio.h>
+	<stdlib.h>
+

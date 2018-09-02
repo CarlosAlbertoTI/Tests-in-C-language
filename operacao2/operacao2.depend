@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517853925 source:c:\users\calbe\desktop\teste com c\operacao2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

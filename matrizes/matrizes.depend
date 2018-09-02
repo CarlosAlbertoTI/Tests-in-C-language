@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519148215 source:c:\users\calbe\desktop\teste com c\matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
